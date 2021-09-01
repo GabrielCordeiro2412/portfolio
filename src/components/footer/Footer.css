@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+
+.desc-footer{
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.link-git{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.icon{
+    width: 40px;
+    height: 40px;
+    margin: 10px
+}

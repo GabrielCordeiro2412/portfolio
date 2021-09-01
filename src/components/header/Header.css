@@ -1,0 +1,34 @@
+.header{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-contact{
+    color: #000;
+    background-color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 2%
+}
+
+.btn-contact:hover {
+    background-color: #5D5FEF;
+    color: #fff;
+}
+
+.header h1{
+    display:none
+}
+
+.desc{
+    text-align: center;
+    margin-top: 4%
+}
